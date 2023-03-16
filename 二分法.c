@@ -38,3 +38,4 @@ int main()
     k = searchInsert(nums,numSize,target);
     printf("%d ",k);
 }
+//这是一道简单的二分法问题，高中知识。
